@@ -19,4 +19,5 @@ Web alanında da kendimi geliştirmişliğim de var aslında.
 Sertifika ekte;
 
 https://www.udemy.com/certificate/UC-915cc39f-9048-4b9a-abdb-34ff99f87bf2/
+
 https://udemy-certificate.s3.amazonaws.com/image/UC-915cc39f-9048-4b9a-abdb-34ff99f87bf2.jpg
