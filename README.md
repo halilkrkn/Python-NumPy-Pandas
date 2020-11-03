@@ -2,7 +2,7 @@
 
 - Python Programlama Temelleri ve Özellikleri ile ilgili tüm içerikler.
 
-- Veri Manipülasyonları yani Numpy ve Pandas Temelleri ve Özellikleri ile ilgili gerekli içerikler
+- Veri Manipülasyonlarını yani Numpy ve Pandas Temelleri ve Özellikleri ile ilgili gerekli içerikler
 
 
 # Cheat Sheet (Kopya Kağıdı)
