@@ -1,8 +1,8 @@
 # Python-NumPy-Pandas
 
-Python Programlama Temelleri ve Özellikleri ile ilgili tüm içerikler.
+- Python Programlama Temelleri ve Özellikleri ile ilgili tüm içerikler.
 
-Numpy ve Pandas Temmelleri ve Özellikleri ile ilgili gerekli içerikler
+- Numpy ve Pandas Temmelleri ve Özellikleri ile ilgili gerekli içerikler
 
 
 # Cheat Sheet (Kopya Kağıdı)
