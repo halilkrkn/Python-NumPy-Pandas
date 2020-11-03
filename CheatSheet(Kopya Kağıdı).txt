@@ -1,4 +1,3 @@
-# Python-NumPy-Pandas
 
 Numpy, Pandas,Matplotlib,Sckit-Learn Kopya Kağıdı (CheatSheet)
 
