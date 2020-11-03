@@ -7,7 +7,7 @@
 
 # Cheat Sheet (Kopya Kağıdı)
 
-- **Numpy, Pandas,Matplotlib,Sckit-Learn Kopya Kağıdı (CheatSheet)**
+- **Numpy, Pandas, Matplotlib, Sckit-Learn Kopya Kağıdı (CheatSheet)**
 
 https://web.itu.edu.tr/iguzel/files/Python_Cheat_Sheets.pdf
 
